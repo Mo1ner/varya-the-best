@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/varya-the-best/static/css/main.6aefb588.css",
+    "main.js": "/varya-the-best/static/js/main.617651f8.js",
+    "static/media/варя2.png": "/varya-the-best/static/media/варя2.d0d0aacb67e7c91d57a7.png",
+    "static/media/варя3.png": "/varya-the-best/static/media/варя3.e915094f4e40f36282d6.png",
+    "static/media/варя4.png": "/varya-the-best/static/media/варя4.ebb4354b836dbb6d02d5.png",
+    "static/media/cake.png": "/varya-the-best/static/media/cake.3dd42c2a0c4def7b474c.png",
+    "static/media/ramen.png": "/varya-the-best/static/media/ramen.a7f9fb83f40aec46028a.png",
+    "static/media/sesia.png": "/varya-the-best/static/media/sesia.7f9ac5da18acdb61ac93.png",
+    "static/media/женя.png": "/varya-the-best/static/media/женя.52db2ddd7cb09f8c5cf0.png",
+    "static/media/варя.png": "/varya-the-best/static/media/варя.23ad0d044d0c436a9050.png",
+    "static/media/шедевр.jpg": "/varya-the-best/static/media/шедевр.e987ddedd3a471235f66.jpg",
+    "static/media/powder.png": "/varya-the-best/static/media/powder.ae00ae232c1c8e87b0d7.png",
+    "static/media/sunglasses.png": "/varya-the-best/static/media/sunglasses.93af2b4c6017987e7597.png",
+    "static/media/Concrete-Regular.otf": "/varya-the-best/static/media/Concrete-Regular.fcb1090140aa5427f444.otf",
+    "index.html": "/varya-the-best/index.html",
+    "static/media/menu-open.svg": "/varya-the-best/static/media/menu-open.56fd6bd279658ae7b6af950c5ce1e764.svg",
+    "static/media/cross.svg": "/varya-the-best/static/media/cross.cb7541ea4b3e96deb8cef449e7488ada.svg",
+    "main.6aefb588.css.map": "/varya-the-best/static/css/main.6aefb588.css.map",
+    "main.617651f8.js.map": "/varya-the-best/static/js/main.617651f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aefb588.css",
+    "static/js/main.617651f8.js"
+  ]
+}
